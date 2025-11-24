@@ -2,7 +2,7 @@
 
 This project implements a Simple Linear Regression model using Python and scikit-learn to predict an employee's salary based on their years of experience. This is a foundational machine learning exercise demonstrating data preprocessing, model training, and result visualization.
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 Required Python libraries:
 scikit-learn is required for this to work, it can be installed using the command
